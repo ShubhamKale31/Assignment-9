@@ -1,7 +1,7 @@
 # Assignment 9
 jQuery
  
-This project is a part of Assignment 5 for course **_CS648_**.
+This project is a part of Assignment 9 for course **_CS648_**.
 
 | Language | Platform | Author |
 | -------- | --------|--------|
